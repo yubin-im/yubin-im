@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&fontSize=40&animation=twinkling&text=Welcome!%20Im%20Yubin😊)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&fontSize=40&animation=twinkling&text=Welcome!%20Im%20Yubin🍀)
 
 <h2>✏️ What I'm Learning 💻</h2>
 
