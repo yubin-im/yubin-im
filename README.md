@@ -66,9 +66,11 @@
 
 ### [📙 [Mini Project] 도서 추천/평가 서비스](https://unleashed-fire-109.notion.site/SeSAC-Mini-Project-9fe2da8dabc7445e8c97addc627300aa?pvs=4)
 
+### [🍔 [Project 1] 키오스크 프로젝트](https://unleashed-fire-109.notion.site/Project-1-8c3983bfa8bf49139ce2812ff67dbe2e?pvs=4)
+
 <br/>
 
-<h3>...and my Tech Blog! </h3>
+<h3>...and my Tech Blog!</h3>
 
 <a href="https://imbay.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF6347?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
