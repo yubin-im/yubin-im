@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-005F0F?style=for-the-badge&logo=jpa&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
 </p>
 
 <h3>[Front-end]</h3>
@@ -62,13 +61,9 @@
 
 <h2>🔍 My Project 🎯</h2>
 
-### [📗 [Final Project] eco-reading](https://www.notion.so/Final-Project-eco-reading-c3d9d4fcab8d43eea17c57c1c9b6324d?pvs=4)
+### [🧳 해외여행 모임 통장 서비스 프로젝트](https://unleashed-fire-109.notion.site/Project-2-1c578f9b707440488b003aeae8e2d0e9?pvs=4)
 
-### [📙 [Mini Project] 도서 추천/평가 서비스](https://unleashed-fire-109.notion.site/SeSAC-Mini-Project-9fe2da8dabc7445e8c97addc627300aa?pvs=4)
-
-### [🍔 [Project 1] 키오스크 프로젝트](https://unleashed-fire-109.notion.site/Project-1-8c3983bfa8bf49139ce2812ff67dbe2e?pvs=4)
-
-### [🧳 [Project 2] 해외여행 모임 통장 서비스 프로젝트](https://unleashed-fire-109.notion.site/Project-2-1c578f9b707440488b003aeae8e2d0e9?pvs=4)
+### [🎨 취미 여가 플랫폼 및 옴니페이 서비스](https://unleashed-fire-109.notion.site/Project-3-1d32022e611e4cc28984e7a46dd1a217?pvs=4)
 
 <br/>
 
