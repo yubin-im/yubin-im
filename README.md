@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-005F0F?style=for-the-badge&logo=jpa&logoColor=white">
+    <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
 
 <h3>[Front-end]</h3>
@@ -38,7 +40,7 @@
 
 <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
@@ -64,6 +66,8 @@
 ### [🧳 해외여행 모임 통장 서비스 프로젝트](https://unleashed-fire-109.notion.site/Project-2-1c578f9b707440488b003aeae8e2d0e9?pvs=4)
 
 ### [🎨 취미 여가 플랫폼 및 옴니페이 서비스](https://unleashed-fire-109.notion.site/Project-3-1d32022e611e4cc28984e7a46dd1a217?pvs=4)
+
+### [📗 헌책 나눔을 통한 환경 살리기 플랫폼](https://www.notion.so/Final-Project-eco-reading-c3d9d4fcab8d43eea17c57c1c9b6324d?pvs=4)
 
 <br/>
 
